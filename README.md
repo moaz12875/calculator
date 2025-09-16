@@ -25,7 +25,7 @@ In addition, the application includes a dynamic background feature that changes 
 ## ⚙️ Technologies Used
 - **HTML5** → For structuring the interface.  
 - **CSS3** → For styling and layout.  
-- **JavaScript ** → For implementing the logic, event handling, and interactive background.  
+- **JavaScript** → For implementing the logic, event handling, and interactive background.  
 
 ---
 
