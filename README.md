@@ -44,10 +44,7 @@ This project demonstrates:
 - Implement **error handling** (e.g., division by zero).  
 - Add **memory functions** (M+, M-, MR).  
 
----
 
-## 📷 Screenshot
-(*You can add a screenshot of your calculator UI here*)  
 
 ---
 
