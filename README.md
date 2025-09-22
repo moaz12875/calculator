@@ -1,52 +1,52 @@
-# Web Calculator App
+# 🧮 JavaScript Calculator
 
-## 📌 Project Overview
-This project is a **web-based calculator application** built with **HTML, CSS, and JavaScript**.  
-It provides a clean and interactive interface that allows users to perform basic arithmetic and advanced operations directly in the browser.  
-In addition, the application includes a dynamic background feature that changes colors randomly whenever the user interacts with the page, giving the project a modern and engaging look.
+## 📖 Overview
+This is a **simple calculator project** built with **HTML, CSS, and Vanilla JavaScript**.  
+It supports basic arithmetic operations, square root calculation, backspace functionality, and a dynamic background gradient that changes on every click. 🎨⚡  
 
 ---
 
 ## ✨ Features
-- **Basic Arithmetic Operations**: Addition (+), Subtraction (-), Multiplication (*), Division (/).  
-- **Advanced Operations**:  
-  - Percentage (%)  
-  - Power (**)  
-  - Square Root (√)  
-- **Utility Buttons**:  
-  - `C` → Clear all input  
-  - `⌫` → Delete the last digit (Backspace)  
-  - `=` → Evaluate and display the result  
-- **Dynamic Background**: The background color changes randomly with a linear gradient effect on each click, adding a visually appealing experience.  
-- **Keyboard Support**: Input field automatically focuses on page load for direct typing.  
+- ➕➖✖️➗ Perform basic arithmetic operations  
+- √ Square root calculation  
+- ⌫ Backspace (delete last character)  
+- 🎨 Random **linear-gradient background** on every click  
+- ⌨️ Input display with auto-focus on page load  
 
 ---
 
-## ⚙️ Technologies Used
-- **HTML5** → For structuring the interface.  
-- **CSS3** → For styling and layout.  
-- **JavaScript** → For implementing the logic, event handling, and interactive background.  
+## 🛠️ Technologies Used
+- ⚡ **HTML5** → Structure & buttons layout  
+- 🎨 **CSS3** → Styling & UI design  
+- 🧩 **JavaScript (Vanilla)** → Calculator logic & background effects  
 
 ---
 
-## 🎯 Learning Objectives
-This project demonstrates:  
-- **DOM manipulation** using `getElementById` and `addEventListener`.  
-- **Event-driven programming** in JavaScript.  
-- **Dynamic UI updates** such as background gradients.  
-- **Creating an interactive calculator** as a beginner-friendly but practical web development exercise.  
+## 📂 Project Structure
+
+```bash
+project-folder/
+│── index.html       🌐 Main HTML file (UI of calculator)
+│── css.css          🎨 Stylesheet (design & layout)
+│── script.js        ⚡ JavaScript (calculator logic + background effect)
+│── README.md        📖 Documentation
+```
+## 🚀 How to Run
+1. Clone or download this repository.  
+2. Open **`index.html`** in your browser.  
+3. Start calculating & enjoy the **dynamic gradient effect** 🎉  
 
 ---
 
-## 🚀 Future Improvements
-- Add support for **keyboard shortcuts** for operations.  
-- Improve design with **responsive CSS grid layout**.  
-- Implement **error handling** (e.g., division by zero).  
-- Add **memory functions** (M+, M-, MR).  
-
-
+## 📌 Future Improvements
+- ⏱️ Add memory functions (**M+, M-, MR**).  
+- 🔢 Add scientific operations (**sin, cos, tan, log, etc.**).  
+- 📱 Improve **responsive design** for mobile devices.  
 
 ---
 
-## 📜 License
-This project is for **educational purposes** and open for anyone to modify or improve.  
+## 👨‍💻 Author
+Created with ❤️ by **moaz mohamed**  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-moaz--mohamed-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/moaz-mohamed-545725375/)
+
